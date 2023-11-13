@@ -1,0 +1,24 @@
+[
+  {
+    "id": "halo-combat-effect-2003",
+    "title": "Halo",
+    "genre": "Sci-Fi",
+    "type": "FPS",
+    "cover_art": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg"
+  },
+  {
+    "id": "call-of-duty-modernwarfare2-2009",
+    "title": "Call of Duty Modern Warfare 2",
+    "genre": "War Simulation",
+    "type": "FPS",
+    "cover_art": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCall_of_Duty%3A_Modern_Warfare_2&psig=AOvVaw0IAH6LRSPwLQgKPO1C5Sd7&ust=1699994957523000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDJ7O_swYIDFQAAAAAdAAAAABAD"
+  },
+  {
+    "id": "mortal-kombat-1-2023",
+    "title": "Mortal Kombat 1",
+    "genre": "Action",
+    "type": "Fighter",
+    "cover_art": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMortal_Kombat_1&psig=AOvVaw28S8kogW2jvLshyzBXZCsY&ust=1699994988476000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCwkf3swYIDFQAAAAAdAAAAABAG"
+  }
+]
+
