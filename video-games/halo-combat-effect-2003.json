@@ -2,6 +2,5 @@
   "rating": 9.7,
   "cost": "$49.99",
   "publisher": "Bungie",
-  "type": "FPS",
-  "genre": "Sci-Fi"
+  "genre": [ "Sci-Fi", "sci-fi", "xbox" ]
 }
